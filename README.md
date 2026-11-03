@@ -1,7 +1,7 @@
 # REGEN: Inferring Time-Resolved Gene Regulatory Networks from Global Network Supervision
 
 <p align="center">
-  <img src="figures/regen_logo.png" alt="REGEN Logo" width="320">
+  <img src="figures/REGEN_LOGO.png" alt="REGEN Logo" width="320">
 </p>
 
 REGEN (Regulatory-network Generation) reconstructs time-resolved gene regulatory networks (GRNs) from single-cell RNA expression data ordered by chronological time or pseudotime, using global network supervision. By integrating RNA expression features, latent variable modeling, Bernoulli diffusion, and graph message passing, REGEN captures temporal changes in regulatory interactions while maintaining consistency between dynamic and global networks.
